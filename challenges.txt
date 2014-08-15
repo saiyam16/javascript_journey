@@ -1,3 +1,5 @@
+Write all your answers and save them in your repository, then send me a pull request
+
 Challenge 1 :
 
 Create a function that will take two arguments:
@@ -18,7 +20,7 @@ output : bcpfaueqtguvqta
 
 Challenge 2 :
 
-using "Challenge_2.html" write a js file which will result in the following :
+using "Challenge_2.html" write a js file called "Challenge_2.js" which will result in the following :
 
 1) If the image is visible, the banner will say " Click on me to HIDE the picture!". 
 If the image is visible, the banner will say "Click on me to SHOW the picture!".
@@ -28,7 +30,3 @@ If the image is visible, the banner will say "Click on me to SHOW the picture!".
 3) Everytime the banner is clicked, the counter should increase by 1.
 
 4) Everytime the banner is clicked, the box will change to a random color
-
-
-
-
