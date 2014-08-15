@@ -1,0 +1,34 @@
+Challenge 1 :
+
+Create a function that will take two arguments:
+an array of words (text)
+an integer between 1 and 26 inclusive (key)
+
+The function will return a string that contains all the words in "text" without space, 
+with each letter being shifted forward by "key".
+Any punctuation marks or symbols should be removed.
+All characters should be made lowercase.
+Z gets shifted to A and
+
+E.g. 
+
+Challenge_1(['zA...ndy','score','sTo$ry'],2);
+
+output : bcpfaueqtguvqta
+
+Challenge 2 :
+
+using "Challenge_2.html" write a js file which will result in the following :
+
+1) If the image is visible, the banner will say " Click on me to HIDE the picture!". 
+If the image is visible, the banner will say "Click on me to SHOW the picture!".
+
+2) Everytime the banner is clicked, the image should go from visible to invisible or vice versa.
+
+3) Everytime the banner is clicked, the counter should increase by 1.
+
+4) Everytime the banner is clicked, the box will change to a random color
+
+
+
+
